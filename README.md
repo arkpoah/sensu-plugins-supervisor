@@ -5,6 +5,7 @@
 [![Code Climate](https://codeclimate.com/github/sensu-plugins/sensu-plugins-supervisor/badges/gpa.svg)](https://codeclimate.com/github/sensu-plugins/sensu-plugins-supervisor)
 [![Test Coverage](https://codeclimate.com/github/sensu-plugins/sensu-plugins-supervisor/badges/coverage.svg)](https://codeclimate.com/github/sensu-plugins/sensu-plugins-supervisor)
 [![Dependency Status](https://gemnasium.com/sensu-plugins/sensu-plugins-supervisor.svg)](https://gemnasium.com/sensu-plugins/sensu-plugins-supervisor)
+[![Sensu Bonsai Asset](https://img.shields.io/badge/Bonsai-Download%20Me-brightgreen.svg?colorB=89C967&logo=sensu)](https://bonsai.sensu.io/assets/arkpoah/sensu-plugins-supervisor)
 
 ## Functionality
 

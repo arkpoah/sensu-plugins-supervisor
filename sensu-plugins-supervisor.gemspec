@@ -36,17 +36,17 @@ Gem::Specification.new do |s|
 
   s.add_runtime_dependency 'ox', '~> 2.5.0'
   s.add_runtime_dependency 'ruby-supervisor', '0.0.2'
-  s.add_runtime_dependency 'sensu-plugin', '~> 1.2'
+  s.add_runtime_dependency 'sensu-plugin', '~> 4.0'
   # when we drop ruby < 2.4 support we can add this and remove
   # the extension to conditionally deal with breaking changes
   # across ruby versions and uncomment the following:
   # s.add_runtime_dependency 'xmlrpc', '~> 0.3'
 
-  s.add_development_dependency 'bundler',                   '~> 1.7'
+  s.add_development_dependency 'bundler',                   '~> 2.1'
   s.add_development_dependency 'codeclimate-test-reporter', '~> 0.4'
   s.add_development_dependency 'github-markup',             '~> 3.0'
   s.add_development_dependency 'pry',                       '~> 0.10'
-  s.add_development_dependency 'rake',                      '~> 12.3'
+  s.add_development_dependency 'rake',                      '~> 13.0'
   s.add_development_dependency 'redcarpet',                 '~> 3.2'
   s.add_development_dependency 'rubocop',                   '~> 0.40.0'
   s.add_development_dependency 'rspec',                     '~> 3.4'
