@@ -25,8 +25,8 @@ func main() {
 
 func configureRootCommand() *cobra.Command {
  cmd := &cobra.Command{
-  Use:   "sensu-CHANGEME",
-  Short: "The Sensu Go CHANGEME for x",
+  Use:   "sensu-plugins-supervisor",
+  Short: "The Sensu Go supervisor plugin for bonsai",
   RunE:  run,
  }
 
